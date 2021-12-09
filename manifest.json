@@ -1,18 +1,30 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Makes the chat have a clear background | by §1TheAlienDoctor",
-        "name": "§1TheAlienDoctor's§e Clear chat §4(V1.0)",
-        "uuid": "58c1fc19-4fe4-48e0-a08c-1729752837c8",
-        "version": [0, 1, 0],
-        "min_engine_version": [1, 16, 0]
+        "description": "§Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+        "name": "§1Alien's §eClearchat pack §4(V1.0.0)",
+        "uuid": "0b8617a4-2c59-4a38-9314-2c59e8b4aa6f",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
     },
     "modules": [
         {
-            "description": "Makes the chat have a clear background | by §1TheAlienDoctor",
+            "description": "§Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
             "type": "resources",
-            "uuid": "3f3159bd-3bb3-49a7-bae4-3bea7fdbc7f4",
-            "version": [0, 1, 0]
+            "uuid": "aef4fd46-ed62-4ad5-b92f-270c32d756a6",
+            "version": [
+                1,
+                0,
+                0
+            ]
         }
     ]
 }
