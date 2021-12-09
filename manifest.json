@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "§Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+        "description": "§1Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
         "name": "§1Alien's §eClearchat pack §4(V1.0.0)",
         "uuid": "0b8617a4-2c59-4a38-9314-2c59e8b4aa6f",
         "version": [
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "§Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
+            "description": "§1Completly removes the background of the chat §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
             "type": "resources",
             "uuid": "aef4fd46-ed62-4ad5-b92f-270c32d756a6",
             "version": [
