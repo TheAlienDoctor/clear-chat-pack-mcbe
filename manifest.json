@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "§rCompletely removes the background from the chat in Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
-		"name": "§1§lAlien's§r §eClearchat §4(RP-V1.0.0)§r",
+		"description": "§rRemoves the background of chat and position on the main HUD screen. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
+		"name": "§1§lAlien's§r §eClearchat §4(RP-V1.0.1)§r",
 		"uuid": "af24d1f0-3d4a-4cde-b1c1-e0722dd7fac9",
 		"version": [
 			1,
 			1,
-			0
+			1
 		],
 		"min_engine_version": [
 			1,
@@ -17,14 +17,21 @@
 	},
 	"modules": [
 		{
-			"description": "§rCompletely removes the background from the chat in Minecraft Bedrock edition | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.0 §r",
+			"description": "§rRemoves the background of chat and position on the main HUD screen. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
 			"type": "resources",
 			"uuid": "8b87c573-c6f9-4aca-aabf-ed18ae3a1052",
 			"version": [
 				1,
 				1,
-				0
+				1
 			]
 		}
-	]
+	],
+	"metadata": {
+		"authors": [
+			"TheAlienDoctor"
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
 }
