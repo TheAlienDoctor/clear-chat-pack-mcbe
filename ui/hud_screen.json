@@ -1,8 +1,5 @@
 {
 	"namespace": "hud",
-	//---------------------------------------------------------------------------
-	// Hud Screen
-	//---------------------------------------------------------------------------
 	// Displays player's position in the form "Position: 0, 0, 0", as well as "Agent Pos: 0, 0, 0" if an owned agent is present
 	"player_position": {
 		"type": "image",
@@ -11,7 +8,7 @@
 			"100%c + 2px"
 		],
 		"texture": "textures/ui/Black",
-		"alpha": 0.0, //Remove background from position
+		"alpha": 0.0, //Remove background from position - Alien
 		"controls": [
 			{
 				"player_position_text": {
@@ -48,7 +45,7 @@
 		"easing": "in_quart",
 		"destroy_at_end": "chat_grid_item",
 		"duration": 1,
-		"from": 0.0, //Remove background from chat fade out animation
+		"from": 0.0, //Remove background from fade out animation - Alien
 		"to": 0
 	},
 	"chat_grid_item": {
@@ -60,12 +57,18 @@
 		],
 		"anchor_from": "top_left",
 		"anchor_to": "top_left",
+		"bindings": [
+			{
+				"binding_name": "(not #on_new_death_screen)",
+				"binding_name_override": "#visible"
+			}
+		],
 		"controls": [
 			{
 				"chat_background": {
 					"type": "image",
 					"texture": "textures/ui/Black",
-					"alpha": 0.0, //Remove background from chat itself
+					"alpha": 0.0, //Remove background from chat itself - Alien
 					"size": [
 						"100%",
 						"100%c"
