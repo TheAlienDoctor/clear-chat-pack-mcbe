@@ -2,7 +2,7 @@
 	"format_version": 2,
 	"header": {
 		"description": "§rRemoves the background of chat and position on the main HUD screen. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.1.1 §r",
-		"name": "§1§lAlien's§r §eClearchat §4(RP-V1.0.1)§r",
+		"name": "§1§lAlien's§r §eClearchat §4(RP-V1.1.1)§r",
 		"uuid": "af24d1f0-3d4a-4cde-b1c1-e0722dd7fac9",
 		"version": [
 			1,
@@ -12,7 +12,7 @@
 		"min_engine_version": [
 			1,
 			19,
-			50
+			80
 		]
 	},
 	"modules": [
